@@ -1,6 +1,6 @@
 _____Flexapy Wristband Motion Tracking_____
 
-This project powers the motion-tracking and mapping capabilities of the Flexapy wristbands. It collects real-time motion data from an MPU-6050 sensor, visualizes it, and maps it for further processing. The goal of this project was to build a minimum viable product (MVP) to demonstrate the feasibility of Flexapy’s vision — a full-body tracking suit for adaptive, AI-driven physical therapy solutions. This served as a proof of concept for potential sponsors and collaborators.
+This project powers the motion-tracking and mapping capabilities of the Flexapy wristbands. It collects real-time motion data from an MPU-6050 sensor, visualizes it, and maps it for further processing. The goal of this project was to build a minimum viable product (MVP) to demonstrate the feasibility of Flexapy’s vision: A full-body tracking suit for adaptive, AI-driven physical therapy solutions. This served as a proof of concept for potential sponsors and collaborators.
 
 _____Requirements_____
     
