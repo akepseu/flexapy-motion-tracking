@@ -43,8 +43,7 @@ def update(frame):
                 # Convert to float instead of int to avoid conversion issues
                 ax, ay, az, gx, gy, gz = map(float, parts)
                 
-                # If you need integers, you can cast to int later
-                ax_vals.append(int(ax))  # Optional: convert to int if necessary
+                ax_vals.append(int(ax))  
                 ay_vals.append(int(ay))
                 az_vals.append(int(az))
                 gx_vals.append(int(gx))
